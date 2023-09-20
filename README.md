@@ -1,7 +1,3 @@
-#instruction to start
+#I am Pius Samie Henry. I live in Monrovia and work as a Technical Support Enginneer at City Kings Hotel
 
-'npm install'
-
-'npm run'
-
-#edit this file from my computer
+#I Love to watch soccer on week ends.
